@@ -5,5 +5,5 @@ The repository includes the following files
   -[Notebook](CIVE202_Spring2026_Group151-11_Project2_PythonCode.ipynb)
   -[Annotated Code](CIVE202_Spring2026_Group151-11_Project2_AnnotatedCode.docx)
   -[Gantt Chart](CIVE202_Spring2026_Group11_Project2_GanttChart.xlsx)
-  -[Scope of Work](Project2SOW.pdf)
+  -[Scope of Work](Project 2 SOW.pdf)
   -[Written Report](CIVE202_Spring2026_151-11_Project2_TechnicalReport.docx)
